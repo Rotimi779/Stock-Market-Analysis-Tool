@@ -4,7 +4,7 @@
 This repository contains a machine learning project used to predict the closing stock prices for Apple, Google and Microsoft in the first quarter of 2024, using sequential models. The project implements data visualizations using Plotly and Dash to monitor the variation in financial data over the past few years, which are displayed on a React application.
 
 ## Objectives
-The primary objectives of this problem are:
+The primary objectives of this project are:
    - To compare the final closing prices for the companies and select which company would be the best to invest in based on previous prices.
    - To evaluate the performance of these models in performing stock analysis.
    - To visualize stock trends and financial shifts in companies over a large time period.
